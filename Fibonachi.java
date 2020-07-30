@@ -27,7 +27,7 @@ public class Fibonachi
     
     return arr[n];
   }
-  
+  // better way
   private static long fibNaiv(int n)
   {
 	if ( n <= 1 )
